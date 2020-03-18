@@ -13,7 +13,7 @@
       "item": "minecraft:crafting_table"
     },
     "C": {
-      "item": "minecraft:chest"
+      "tag": "forge:chests/wooden"
     },
     "P": {
       "tag": "minecraft:planks"
